@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: tdp-rb
+ * Plugin Name: wp-react-cli-plugin-setup
  * Description: Vue-App in WordPress.
  */
 
