@@ -20,7 +20,7 @@ This guide will show you how to create a WordPress plugin using Vue.js. This app
 First, create a Vue application:
 
 ```sh
-vue create wp-vue
+npm create vue@latest
 ```
 
 Select the default configuration and build the project:
